@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CRUDETests
+namespace CRUDEAssistant.Services
 {
-    internal class MyMath
+    internal class CountriesService
     {
-        public int add(int x, int y)
-        {
-            return 0;
-        }
     }
 }
